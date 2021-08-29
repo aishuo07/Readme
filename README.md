@@ -80,6 +80,7 @@ Attaching postman database for demo
 1. May provide With multiple types of Database Support like Mongodb, Postgres.
 2. May Deploy it online for demonstration purpose.
 3. Can add more features like gui support with flask.
+4. Can add docker for single command application.
 
 
 ## Authors
