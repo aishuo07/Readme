@@ -56,6 +56,13 @@ Develop work around for rate limited server
 Crawled all API entries for all categories and stored it in a mysql database
 ```
 
+### If given More Days:
+
+```
+May provide With multiple types of Database Support like Mongodb, Postgres.
+May Deploy it online for demonstration purpose.
+Can add more features like gui support with flask.
+```
 
 
 ## Authors
